@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-[![hzwer's github stats](https://github-readme-stats.vercel.app/api?username=hzwer)](https://github.com/anuraghazra/github-readme-stats)
-
+- 🔭 I’m currently working on Megvii Inc.
+- 📫 Feel free to [Email](mailto:huangzhewei@megvii.com) Me!
+- 🌱 I’m currently learning Computer Vision.
+- 😄 [My technology blog](hzwer.com)
 
 <p align="center"> 
   Visitors (From 08/06/2020):<br>
