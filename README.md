@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+[![hzwer's github stats](https://github-readme-stats.vercel.app/api?username=hzwer)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p align="center"> 
+  Visitors (From 08/06/2020):<br>
+  <img src="https://profile-counter.glitch.me/Eurus-Holmes/count.svg" />
+</p>
+
+
 <!--
 **hzwer/hzwer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
