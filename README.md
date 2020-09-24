@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Megvii Inc.
 - 📫 Feel free to [Email](mailto:huangzhewei@megvii.com) Me!
 - 🌱 I’m currently learning Computer Vision.
-- 😄 [Technology Blog](hzwer.com), [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en), [Zhihu](https://www.zhihu.com/people/hzwer)
+- 😄 [Technology Blog](https://hzwer.com), [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en), [Zhihu](https://www.zhihu.com/people/hzwer)
 
 <!--
 **hzwer/hzwer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
