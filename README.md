@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I work at Megvii Inc as an algorithm researcher after graduation. I got a bachelor degree from Peking University in 2020. 
-- 🌱 I’m currently interested in Computer Vision, Image signal Processing and Deep Learning.
+- 🔭 I work at Megvii as an algorithm researcher since 2017. I got a bachelor degree from Peking University in 2020. 
+- 🌱 I am currently interested in Computer Vision, Image signal Processing, and Deep Learning.
 - 😄 [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en), [知乎](https://www.zhihu.com/people/hzwer), [算法博客](http://hzwer.com)
 - 📫 Feel free to [Email](mailto:hzwer@pku.edu.cn) Me!
 
