@@ -2,10 +2,10 @@
 
 - 🔭 I work at Megvii as an algorithm researcher since 2017. I got my bachelor degree from Peking University in 2020. 
 - 🌱 I am currently interested in Computer Vision, Image Signal Processing, and Deep Learning.
-- 😄 [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en), [知乎](https://www.zhihu.com/people/hzwer), [算法博客](http://hzwer.com)
+- ⏩ [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en), [知乎](https://www.zhihu.com/people/hzwer), [算法博客](http://hzwer.com)
 - 📫 Feel free to [Email](mailto:hzwer@pku.edu.cn) Me!
 - 🧩 I used to be an algorithm contest player from 2014 to 2016.
-- 旷视研究院招收算法研究员和实习生，有兴趣的同学欢迎找我内推。
+- 💼 旷视研究院招收算法研究员和实习生，欢迎找我内推。
 
 My research work: [LearningToRun2017](https://github.com/hzwer/NIPS2017-LearningToRun), [LearningToPaint2019](https://github.com/megvii-research/ICCV2019-LearningToPaint), [RIFE2020](https://github.com/hzwer/arXiv2020-RIFE)
 
