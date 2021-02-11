@@ -9,7 +9,7 @@
 
 My research work: [Run2017](https://github.com/hzwer/NIPS2017-LearningToRun), [Paint2019](https://github.com/megvii-research/ICCV2019-LearningToPaint), [RIFE2020](https://github.com/hzwer/arXiv2020-RIFE)
 
-<img width="160" alt="image" src="https://cdn.luogu.com.cn/upload/image_hosting/x9peebf0.png"><img width="160" alt="image" src="https://cdn.luogu.com.cn/upload/image_hosting/yi3kcwnw.png">
+<img width="160" alt="image" src="https://cdn.luogu.com.cn/upload/image_hosting/5h3609p1.png"><img width="160" alt="image" src="https://cdn.luogu.com.cn/upload/image_hosting/yi3kcwnw.png">
 
 <!--
 **hzwer/hzwer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
