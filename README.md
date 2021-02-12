@@ -9,7 +9,7 @@
 
 My research work: [Run2017](https://github.com/hzwer/NIPS2017-LearningToRun), [Paint2019](https://github.com/megvii-research/ICCV2019-LearningToPaint), [RIFE2020](https://github.com/hzwer/arXiv2020-RIFE)
 
-感谢支持
+感谢支持 Paypal Sponsor: https://www.paypal.com/paypalme/hzwer
 
 <img width="160" alt="image" src="https://cdn.luogu.com.cn/upload/image_hosting/5h3609p1.png"><img width="160" alt="image" src="https://cdn.luogu.com.cn/upload/image_hosting/yi3kcwnw.png">
 
