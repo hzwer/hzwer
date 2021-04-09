@@ -11,8 +11,6 @@ My research work: [Run2017](https://github.com/hzwer/NIPS2017-LearningToRun), [P
 
 感谢支持 Paypal Sponsor: https://www.paypal.com/paypalme/hzwer
 
-<img width="160" alt="image" src="https://cdn.luogu.com.cn/upload/image_hosting/5h3609p1.png"><img width="160" alt="image" src="https://cdn.luogu.com.cn/upload/image_hosting/yi3kcwnw.png">
-
 <!--
 **hzwer/hzwer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
