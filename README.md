@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I work at Megvii as an research engineer since 2017. I got my bachelor's degree from Peking University in 2020. 
-- 🌱 I am currently interested in Computer Vision, Image Quality Enhencement and Reinforcement Learning.
+- 🔭 I work at Megvii as an research engineer since 2017.
+- 🌱 I am currently interested in Image Quality Enhencement, Reinforcement Learning and SLAM.
 - ⏩ [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en), [知乎](https://www.zhihu.com/people/hzwer), [算法博客](http://hzwer.com)
 - 📫 Feel free to [Email](mailto:hzwer@pku.edu.cn) Me!
 - 🧩 I used to be an algorithm contest player from 2013 to 2016. NOI-silver, CTSC-gold, ICPCregional-gold. 
