@@ -6,7 +6,7 @@
 - 📫 Feel free to [Email](mailto:hzwer@pku.edu.cn) Me!
 - 🧩 I used to be an algorithm contest player from 2013 to 2016. NOI-silver, CTSC-gold, ICPCregional-gold. 
 
-Research Work: [Run2017](https://github.com/hzwer/NIPS2017-LearningToRun), [Paint2019](https://github.com/megvii-research/ICCV2019-LearningToPaint), [RIFE2020](https://github.com/hzwer/arXiv2020-RIFE), [KIDA2021](https://github.com/caozixuan/NeurIPS2021-ML4CO-KIDA)
+Research: [Run2017](https://github.com/hzwer/NIPS2017-LearningToRun) ![Github stars](https://img.shields.io/github/stars/megvii-research/NIPS2017-LearningToRunACE), [Paint2019](https://github.com/megvii-research/ICCV2019-LearningToPaint) ![Github stars](https://img.shields.io/github/stars/megvii-research/ICCV2019-LearningToPaint), [RIFE2020](https://github.com/hzwer/arXiv2020-RIFE) ![Github stars](https://img.shields.io/github/stars/hzwer/arXiv2020-RIFE), [KIDA2021](https://github.com/caozixuan/NeurIPS2021-ML4CO-KIDA) ![Github stars](https://img.shields.io/github/stars/caozixuan/NeurIPS2021-ML4CO-KIDA)
 
 Service: [CVPR2022](https://cvpr2022.thecvf.com)
 
