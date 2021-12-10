@@ -4,7 +4,7 @@
 - 🌱 I am currently interested in Image Quality Enhencement, Reinforcement Learning and SLAM.
 - ⏩ [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en), [知乎](https://www.zhihu.com/people/hzwer), [算法博客](http://hzwer.com)
 - 📫 Feel free to [Email](mailto:hzwer@pku.edu.cn) Me!
-- 🧩 I used to be an algorithm contest player from 2013 to 2016. NOI-silver, CTSC-gold, ICPCregional-gold. [ShareOI](https://github.com/hzwer/ShareOI) ![Github stars](https://img.shields.io/github/stars/hzwer/ShareOI)
+- 🧩 I used to be an algorithm contest player NOI-silver, CTSC-gold, ICPCregional-gold. -> [ShareOI](https://github.com/hzwer/ShareOI) ![Github stars](https://img.shields.io/github/stars/hzwer/ShareOI)
 
 Research: [Run2017](https://github.com/hzwer/NIPS2017-LearningToRun) ![Github stars](https://img.shields.io/github/stars/megvii-research/NIPS2017-LearningToRunACE), [Paint2019](https://github.com/megvii-research/ICCV2019-LearningToPaint) ![Github stars](https://img.shields.io/github/stars/megvii-research/ICCV2019-LearningToPaint), [RIFE2020](https://github.com/hzwer/arXiv2020-RIFE) ![Github stars](https://img.shields.io/github/stars/hzwer/arXiv2020-RIFE)![Github stars](https://img.shields.io/github/stars/hzwer/Practical-RIFE), [KIDA2021](https://github.com/caozixuan/NeurIPS2021-ML4CO-KIDA) ![Github stars](https://img.shields.io/github/stars/caozixuan/NeurIPS2021-ML4CO-KIDA)
 
