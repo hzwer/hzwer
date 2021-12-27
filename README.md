@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I work at [Megvii](https://github.com/megvii-research) as an researcher since 2017. (招收算法研究员和实习生，欢迎邮件我内推)
-- 🌱 I am currently interested in Deep Learning. [Awesome-Optical-Flow](https://github.com/hzwer/Awesome-Optical-Flow/blob/main/README.md)
-- ⏩ [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en), [知乎](https://www.zhihu.com/people/hzwer), [算法博客](http://hzwer.com)
-- 📫 Feel free to [Email](mailto:hzwer@pku.edu.cn) Me!
-- 🧩 I used to be an algorithm contest player NOI-silver, CTSC-gold, ICPCregional-gold. -> [ShareOI](https://github.com/hzwer/ShareOI) 
+- I work at [Megvii](https://github.com/megvii-research) as an researcher since 2017. (欢迎邮件我内推)
+- I am currently interested in Deep Learning. [Awesome-Optical-Flow](https://github.com/hzwer/Awesome-Optical-Flow/blob/main/README.md)
+- [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en), [知乎](https://www.zhihu.com/people/hzwer), [算法博客](http://hzwer.com)
+- Feel free to [Email](mailto:hzwer@pku.edu.cn) Me!
+- I used to be an algorithm contest player NOI🥈, CTSC🏅️, ICPC-regional🏅️. -> [ShareOI](https://github.com/hzwer/ShareOI) 
 
-Research: [Run2017](https://github.com/hzwer/NIPS2017-LearningToRun), [Paint2019](https://github.com/megvii-research/ICCV2019-LearningToPaint), [RIFE2020](https://github.com/hzwer/arXiv2020-RIFE), [KIDA2021](https://github.com/caozixuan/NeurIPS2021-ML4CO-KIDA)
+Research: [Run2017🥈](https://github.com/hzwer/NIPS2017-LearningToRun), [Paint2019](https://github.com/megvii-research/ICCV2019-LearningToPaint), [RIFE2020](https://github.com/hzwer/arXiv2020-RIFE), [KIDA2021🏅️](https://github.com/caozixuan/NeurIPS2021-ML4CO-KIDA)
 
 Service: [CVPR2022](https://cvpr2022.thecvf.com)
 
