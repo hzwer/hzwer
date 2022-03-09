@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- I am currently interested in Deep Learning. [Awesome-Optical-Flow](https://github.com/hzwer/Awesome-Optical-Flow/blob/main/README.md)
 - [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en), [知乎](https://www.zhihu.com/people/hzwer), [算法博客](http://hzwer.com)
 - Feel free to [Email](mailto:hzwer@pku.edu.cn) Me!
 - I used to be an algorithm contest player NOI🥈, CTSC🏅️, ICPC-regional🏅️. -> [ShareOI](https://github.com/hzwer/ShareOI) 
