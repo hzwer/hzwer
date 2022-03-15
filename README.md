@@ -4,7 +4,7 @@
 - Feel free to [Email](mailto:hzwer@pku.edu.cn) Me!
 - I used to be an algorithm contest player NOI🥈, CTSC🏅️, ICPC-regional🏅️. -> [ShareOI](https://github.com/hzwer/ShareOI) 
 
-Research: [Run2017🥈](https://github.com/hzwer/NIPS2017-LearningToRun), [Paint2019](https://github.com/megvii-research/ICCV2019-LearningToPaint), [RIFE2020](https://github.com/hzwer/arXiv2020-RIFE), [KIDA2021🏅️](https://github.com/caozixuan/NeurIPS2021-ML4CO-KIDA)
+Research: [Run2017🥈](https://github.com/hzwer/NIPS2017-LearningToRun), [Paint2019](https://github.com/megvii-research/ICCV2019-LearningToPaint), [RIFE2020](https://github.com/hzwer/arXiv2021-RIFE), [KIDA2021🏅️](https://github.com/caozixuan/NeurIPS2021-ML4CO-KIDA)
 
 Service: [CVPR2022](https://cvpr2022.thecvf.com), [ECCV2022](https://eccv2022.ecva.net/)
 
