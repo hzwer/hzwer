@@ -3,6 +3,7 @@
 - [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en), [知乎](https://www.zhihu.com/people/hzwer), [算法博客](http://hzwer.com)
 - Feel free to [Email](mailto:hzwer@pku.edu.cn) Me!
 - I used to be an algorithm contest player NOI🥈, ICPC-regional🏅️. -> [ShareOI](https://github.com/hzwer/ShareOI) 
+- I received my B.S. degree from Peking Univerisity in 2020. I have joined MEGVII Research since July, 2017.
 
 Research: [Run2017](https://github.com/hzwer/NIPS2017-LearningToRun), [Paint2019](https://github.com/megvii-research/ICCV2019-LearningToPaint), [RIFE2021](https://github.com/megvii-research/ECCV2022-RIFE), [KIDA2021](https://github.com/caozixuan/NeurIPS2021-ML4CO-KIDA), [CoNR2022](https://github.com/megvii-research/CoNR), [Head2022](https://github.com/megvii-research/MM2022-ViCoPerceptualHeadGeneration)
 
