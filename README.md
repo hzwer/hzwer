@@ -9,6 +9,14 @@ Research: [Run2017](https://github.com/hzwer/NIPS2017-LearningToRun), [Paint2019
 
 Service: [CVPR2022](https://cvpr2022.thecvf.com), [ECCV2022](https://eccv2022.ecva.net/)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hzwer&repo=ShareOI)](https://github.com/hzwer/ShareOI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=megvii-research&repo=NIPS2017-LearningToRunACE)](https://github.com/megvii-research/NIPS2017-LearningToRunACE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=megvii-research&repo=ICCV2019-LearningToPaint)](https://github.com/megvii-research/ICCV2019-LearningToPaint)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=megvii-research&repo=ECCV2022-RIFE)](https://github.com/megvii-research/ECCV2022-RIFE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=megvii-research&repo=NeurIPS2021-ML4CO-KIDA)](https://github.com/caozixuan/NeurIPS2021-ML4CO-KIDA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=megvii-research&repo=CoNR)](https://github.com/megvii-research/CoNR)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=megvii-research&repo=MM2022-ViCoPerceptualHeadGeneration)](https://github.com/megvii-research/MM2022-ViCoPerceptualHeadGeneration)
+
 <!--
 **hzwer/hzwer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
