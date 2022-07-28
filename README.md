@@ -9,7 +9,6 @@ Research: [Run2017](https://github.com/hzwer/NIPS2017-LearningToRun), [Paint2019
 
 Service: [CVPR2022](https://cvpr2022.thecvf.com), [ECCV2022](https://eccv2022.ecva.net/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hzwer&repo=ShareOI)](https://github.com/hzwer/ShareOI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=megvii-research&repo=NIPS2017-LearningToRunACE)](https://github.com/megvii-research/NIPS2017-LearningToRunACE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=megvii-research&repo=ICCV2019-LearningToPaint)](https://github.com/megvii-research/ICCV2019-LearningToPaint)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=megvii-research&repo=ECCV2022-RIFE)](https://github.com/megvii-research/ECCV2022-RIFE)
