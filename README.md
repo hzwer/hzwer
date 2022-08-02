@@ -38,7 +38,7 @@ Research and Development:
 <img src="https://img.shields.io/github/stars/hzwer/Practical-RIFE?label=RIFE-app&color=orange" />
 </a>
 
-Service: [CVPR2022](https://cvpr2022.thecvf.com), [ECCV2022](https://eccv2022.ecva.net/)
+Service: [CVPR2022](https://cvpr2022.thecvf.com), [ECCV2022](https://eccv2022.ecva.net/), [AAAI2023](https://aaai.org/Conferences/AAAI-23/)
 <!--
 **hzwer/hzwer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
