@@ -29,7 +29,7 @@ Research and Development:
 </a>
 </br>
 <a href="https://github.com/hzwer/Awesome-Optical-Flow">
-<img src="https://img.shields.io/github/stars/hzwer/Awesome-Optical-Flow?label=AwesomeFlow&color=yellow" />
+<img src="https://img.shields.io/github/stars/hzwer/Awesome-Optical-Flow?label=AwesomeFlow&color=orange" />
 </a>
 <a href="https://github.com/hzwer/termdic">
 <img src="https://img.shields.io/github/stars/hzwer/termdic?label=termdic&color=yellow" />
