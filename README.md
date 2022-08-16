@@ -40,7 +40,7 @@ Research and Development:
 
 Service: [CVPR2022](https://cvpr2022.thecvf.com), [ECCV2022](https://eccv2022.ecva.net/), [AAAI2023](https://aaai.org/Conferences/AAAI-23/)
 
-<img src="https://api.star-history.com/svg?repos=hzwer/ShareOI,megvii-research/ICCV2019-LearningToPaint,megvii-research/ECCV2022-RIFE,megvii-research/CoNR&type=Date" height="400" width="600" />
+<img src="https://api.star-history.com/svg?repos=hzwer/ShareOI,megvii-research/ICCV2019-LearningToPaint,megvii-research/ECCV2022-RIFE,megvii-research/CoNR&type=Date" height="320" width="480" />
 
 
 <!--
