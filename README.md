@@ -33,7 +33,7 @@ Cooperation Projects: <a href="https://github.com/caozixuan/NeurIPS2021-ML4CO-KI
 <img src="https://img.shields.io/github/stars/megvii-research/CoNR?label=CoNR2022&color=orange" />
 </a> <a href="https://github.com/megvii-research/MM2022-ViCoPerceptualHeadGeneration">
 <img src="https://img.shields.io/github/stars/megvii-research/MM2022-ViCoPerceptualHeadGeneration?label=Head2022&color=yellow" />
-</a> </a> <a href="https://github.com/megvii-research/MM2022-ViCoPerceptualHeadGeneration">
+</a> </a> <a href="https://github.com/Justin62628/Squirrel-RIFE">
 <img src="https://img.shields.io/github/stars/Justin62628/Squirrel-RIFE?label=SVFI2021&color=red" />
 </a>
 
