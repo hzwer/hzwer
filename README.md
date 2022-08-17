@@ -2,13 +2,12 @@
 
 - [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en), [知乎](https://www.zhihu.com/people/hzwer), [算法博客](http://hzwer.com)
 - Feel free to [Email](mailto:hzwer@pku.edu.cn) Me!
-- I used to be an algorithm contest player NOI🥈, ICPC-regional🏅️. <a href="https://github.com/hzwer/ShareOI"><img src="https://img.shields.io/github/stars/hzwer/ShareOI?label=ShareOI&color=red" />
-</a>
+- I used to be an algorithm contest player NOI🥈, ICPC-regional🏅️. 
 
 - I received my B.S. degree from Peking Univerisity in 2020. I have joined MEGVII Research since July, 2017.
 
-Main Projects: 
-
+Main Projects: <a href="https://github.com/hzwer/ShareOI"><img src="https://img.shields.io/github/stars/hzwer/ShareOI?label=ShareOI&color=red" />
+</a>
 <a href="https://github.com/megvii-research/NIPS2017-LearningToRunACE">
 <img src="https://img.shields.io/github/stars/megvii-research/NIPS2017-LearningToRunACE?label=Run2017&color=orange" />
 </a>
@@ -28,9 +27,7 @@ Main Projects:
 <img src="https://img.shields.io/github/stars/hzwer/Practical-RIFE?label=RIFE-app&color=orange" />
 </a>
 
-Cooperation Projects: 
-
-<a href="https://github.com/caozixuan/NeurIPS2021-ML4CO-KIDA">
+Cooperation Projects: <a href="https://github.com/caozixuan/NeurIPS2021-ML4CO-KIDA">
 <img src="https://img.shields.io/github/stars/caozixuan/NeurIPS2021-ML4CO-KIDA?label=KIDA2021&color=yellow" />
 </a> <a href="https://github.com/megvii-research/CoNR">
 <img src="https://img.shields.io/github/stars/megvii-research/CoNR?label=CoNR2022&color=orange" />
