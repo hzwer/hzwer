@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en), [知乎](https://www.zhihu.com/people/hzwer), [算法博客](http://hzwer.com)
-- Feel free to [Email](mailto:hzwer@pku.edu.cn) Me!
+- [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en), [知乎](https://www.zhihu.com/people/hzwer), [算法博客](http://hzwer.com), [Email](mailto:hzwer@pku.edu.cn)
 - I used to be an algorithm contest player NOI🥈, ICPC-regional🏅️. 
 
 - I received my B.S. degree from Peking Univerisity in 2020. I have joined MEGVII Research since July, 2017.
