@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en), [知乎](https://www.zhihu.com/people/hzwer), [算法博客](http://hzwer.com), [Email](mailto:hzwer@pku.edu.cn)
 - I used to be an algorithm contest player NOI🥈, ICPC-regional🏅️. 
 
 - I received my B.S. degree from Peking Univerisity in 2020. I have joined MEGVII Research since July, 2017.
@@ -40,7 +39,9 @@ Cooperation Projects:  <a href="https://github.com/megvii-research/CVPR2023-DMVF
 <img src="https://img.shields.io/github/stars/caozixuan/NeurIPS2021-ML4CO-KIDA?label=KIDA2021&color=yellow" />
 </a>
 
-Service: [CVPR2022](https://cvpr2022.thecvf.com/all-reviewers), [2023](https://cvpr2023.thecvf.com); [ECCV2022](https://eccv2022.ecva.net/); [ICCV2023](https://iccv2023.thecvf.com); [AAAI2023](https://aaai.org/Conferences/AAAI-23/); [TIP](https://mc.manuscriptcentral.com/tip-ieee)
+[Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en), [知乎](https://www.zhihu.com/people/hzwer), [算法博客](http://hzwer.com), [Email](mailto:hzwer@pku.edu.cn)
+
+Service: [CVPR2022](https://cvpr2022.thecvf.com/all-reviewers), 2023; ECCV2022; ICCV2023; AAAI2023; TIP
 
 <img src="https://api.star-history.com/svg?repos=hzwer/ShareOI,megvii-research/ICCV2019-LearningToPaint,megvii-research/ECCV2022-RIFE,megvii-research/CoNR&type=Date" height="320" width="480" />
 
