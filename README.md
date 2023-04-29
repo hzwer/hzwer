@@ -2,7 +2,7 @@
 
 - I used to be an algorithm contest player NOI🥈, ICPC-regional🏅️. 
 
-- I received my B.S. degree from Peking Univerisity in 2020. I have joined MEGVII Research since July, 2017.
+- I have joined MEGVII Research since July, 2017. I received my B.S. degree from Peking Univerisity in 2020, as excellent graduate. 
 
 Main Projects: 
 <a href="https://github.com/megvii-research/ECCV2022-RIFE">
