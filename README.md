@@ -6,6 +6,9 @@
 
 Main Projects: 
 
+<a href="https://github.com/megvii-research/WACV2024-SAFA">
+<img src="https://img.shields.io/github/stars/megvii-research/WACV2024-SAFA?label=SAFA2024&color=red" />
+</a>
 <a href="https://github.com/megvii-research/ECCV2022-RIFE">
 <img src="https://img.shields.io/github/stars/megvii-research/ECCV2022-RIFE?label=RIFE2021&color=red" />
 </a>
@@ -25,9 +28,6 @@ Main Projects:
 </a>
 <a href="https://github.com/hzwer/termdic">
 <img src="https://img.shields.io/github/stars/hzwer/termdic?label=termdic&color=yellow" />
-</a>
-<a href="https://github.com/megvii-research/WACV2024-SAFA">
-<img src="https://img.shields.io/github/stars/megvii-research/WACV2024-SAFA?label=SAFA2024&color=red" />
 </a>
 
 Cooperation Projects:  <a href="https://github.com/megvii-research/CVPR2023-DMVFN">
