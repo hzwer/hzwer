@@ -2,8 +2,7 @@
 
 - I used to be an algorithm contest player NOI🥈, ICPC-regional🏅️. 
 
-- I worked at MEGVII Research From 2017 to 2023. Currently I work at [StepFun](https://www.stepfun.com). I received my B.S. degree from Peking Univerisity in 2020, as excellent graduate. 
-
+- I worked at MEGVII Research From 2017 to 2023. Currently I work at [StepFun](https://www.stepfun.com). I received my B.S. degree from Peking Univerisity in 2020. 
 Main Projects: 
 
 <a href="https://github.com/megvii-research/WACV2024-SAFA">
@@ -43,7 +42,7 @@ Cooperation Projects:  <a href="https://github.com/megvii-research/CVPR2023-DMVF
 <img src="https://img.shields.io/github/stars/caozixuan/NeurIPS2021-ML4CO-KIDA?label=KIDA2021&color=yellow" />
 </a>
 
-[Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en), [知乎](https://www.zhihu.com/people/hzwer), [算法博客](http://hzwer.com), [Email](mailto:hzwer@pku.edu.cn)
+[Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en), [知乎](https://www.zhihu.com/people/hzwer), [算法博客](http://hzwer.com), [Email](mailto:hzwer@pku.edu.cn), [CV](https://drive.google.com/file/d/1P7m9k8YENP4Yi23Vp42bDPIHfWr0qjU-/view?usp=share_link)
 
 Service: CVPR2022-2024; ECCV2022; ICCV2023; AAAI2023; NeurIPS2023; ICLR2024; TIP; TPAMI; TOMM
 
