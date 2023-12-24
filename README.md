@@ -44,7 +44,7 @@ Cooperation Projects:  <a href="https://github.com/megvii-research/CVPR2023-DMVF
 
 [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en), [知乎](https://www.zhihu.com/people/hzwer), [算法博客](http://hzwer.com), [Email](mailto:hzwer@pku.edu.cn), [CV](https://drive.google.com/file/d/1P7m9k8YENP4Yi23Vp42bDPIHfWr0qjU-/view?usp=share_link)
 
-Service: CVPR2022-2024; ECCV2022; ICCV2023; AAAI2023; NeurIPS2023; ICLR2024; TIP; TPAMI; TOMM
+Service: CVPR2022~2024/ECCV2022/ICCV2023/AAAI2023/NeurIPS2023/ICLR2024/ICML2024/WACV2024/TIP/TPAMI/TOMM
 
 <img src="https://api.star-history.com/svg?repos=hzwer/ShareOI,megvii-research/ICCV2019-LearningToPaint,megvii-research/ECCV2022-RIFE,megvii-research/CoNR&type=Date" height="320" width="480" />
 
