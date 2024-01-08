@@ -6,7 +6,7 @@
 Main Projects: 
 
 <a href="https://github.com/megvii-research/WACV2024-SAFA">
-<img src="https://img.shields.io/github/stars/megvii-research/WACV2024-SAFA?label=SAFA2023&color=red&style=flat" />
+<img src="https://img.shields.io/github/stars/megvii-research/WACV2024-SAFA?label=SAFA2023&color=yellow&style=flat" />
 </a>
 <a href="https://github.com/megvii-research/ECCV2022-RIFE">
 <img src="https://img.shields.io/github/stars/megvii-research/ECCV2022-RIFE?label=RIFE2021&color=red&style=flat" />
