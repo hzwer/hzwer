@@ -3,7 +3,7 @@
 - I used to be an algorithm contest player NOI🥈, ICPC-regional🏅️. 
 
 - I worked at MEGVII Research From 2017 to 2023. Currently I work at [StepFun](https://www.stepfun.com). I received my B.S. degree from Peking Univerisity in 2020.
-  
+
 Main Projects: 
 
 <a href="https://github.com/megvii-research/WACV2024-SAFA">
@@ -11,9 +11,6 @@ Main Projects:
 </a>
 <a href="https://github.com/megvii-research/ECCV2022-RIFE">
 <img src="https://img.shields.io/github/stars/megvii-research/ECCV2022-RIFE?label=RIFE2021&color=red&style=flat" />
-</a>
-<a href="https://github.com/hzwer/Awesome-Optical-Flow">
-<img src="https://img.shields.io/github/stars/hzwer/Awesome-Optical-Flow?label=AwesomeFlow&color=orange&style=flat" />
 </a>
 <a href="https://github.com/hzwer/Practical-RIFE">
 <img src="https://img.shields.io/github/stars/hzwer/Practical-RIFE?label=Prac-RIFE&color=orange&style=flat" />
@@ -28,6 +25,12 @@ Main Projects:
 </a>
 <a href="https://github.com/hzwer/termdic">
 <img src="https://img.shields.io/github/stars/hzwer/termdic?label=termdic&color=yellow&style=flat" />
+</a>
+<a href="https://github.com/hzwer/Awesome-Optical-Flow">
+<img src="https://img.shields.io/github/stars/hzwer/Awesome-Optical-Flow?label=AwesomeFlow&color=orange&style=flat" />
+</a>
+<a href="https://github.com/hzwer/brief_paper_reading">
+<img src="https://img.shields.io/github/stars/hzwer/brief_paper_reading?label=PaperReading&color=yellow&style=flat" />
 </a>
 
 Cooperation Projects:  <a href="https://github.com/megvii-research/CVPR2023-DMVFN">
