@@ -2,7 +2,7 @@
 
 - I used to be an algorithm contest player NOI🥈, ICPC-regional🏅️. 
 
-- I worked at MEGVII Research From 2017 to 2023. Currently I work at [StepFun](https://www.stepfun.com). I received my B.S. degree from Peking Univerisity in 2020.
+- I worked at MEGVII Research From 2017 to 2023. Currently I work at [StepFun](https://www.maopaoya.com). I received my B.S. degree from Peking Univerisity in 2020.
 
 Main Projects: 
 
