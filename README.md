@@ -29,9 +29,6 @@ Main Projects:
 <a href="https://github.com/hzwer/Awesome-Optical-Flow">
 <img src="https://img.shields.io/github/stars/hzwer/Awesome-Optical-Flow?label=AwesomeFlow&color=orange&style=flat" />
 </a>
-<a href="https://github.com/hzwer/brief_paper_reading">
-<img src="https://img.shields.io/github/stars/hzwer/brief_paper_reading?label=PaperReading&color=yellow&style=flat" />
-</a>
 
 Cooperation Projects:  <a href="https://github.com/megvii-research/CVPR2023-DMVFN">
 <img src="https://img.shields.io/github/stars/megvii-research/CVPR2023-DMVFN?label=DMVFN2023&color=orange&style=flat" />
