@@ -4,6 +4,8 @@
 
 - I worked at MEGVII Research From 2017 to 2023. Currently I work at [StepFun](https://www.stepfun.com). I received my B.S. degree from Peking Univerisity in 2020.
 
+[Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en), [知乎](https://www.zhihu.com/people/hzwer), [算法博客](http://hzwer.com), [Email](mailto:hzwer@pku.edu.cn), [CV](https://drive.google.com/file/d/1P7m9k8YENP4Yi23Vp42bDPIHfWr0qjU-/view?usp=share_link)
+
 Main Projects: 
 
 <a href="https://github.com/megvii-research/WACV2024-SAFA">
@@ -42,8 +44,6 @@ Cooperation Projects:  <a href="https://github.com/megvii-research/CVPR2023-DMVF
 <a href="https://github.com/caozixuan/NeurIPS2021-ML4CO-KIDA">
 <img src="https://img.shields.io/github/stars/caozixuan/NeurIPS2021-ML4CO-KIDA?label=KIDA2021&color=yellow&style=flat" />
 </a>
-
-[Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en), [知乎](https://www.zhihu.com/people/hzwer), [算法博客](http://hzwer.com), [Email](mailto:hzwer@pku.edu.cn), [CV](https://drive.google.com/file/d/1P7m9k8YENP4Yi23Vp42bDPIHfWr0qjU-/view?usp=share_link)
 
 Service: CVPR22-24/ECCV22-24/ICCV23/AAAI23-24/NeurIPS23-24/ICLR24/ICML24/WACV24/ACCV24/SIGGRAPH/TIP/TPAMI/TOMM
 
