@@ -25,9 +25,6 @@ Main Projects:
 </a>
 <a href="https://github.com/hzwer/ShareOI"><img src="https://img.shields.io/github/stars/hzwer/ShareOI?label=ShareOI&color=red&style=flat" />
 </a>
-<a href="https://github.com/hzwer/termdic">
-<img src="https://img.shields.io/github/stars/hzwer/termdic?label=termdic&color=yellow&style=flat" />
-</a>
 <a href="https://github.com/hzwer/Awesome-Optical-Flow">
 <img src="https://img.shields.io/github/stars/hzwer/Awesome-Optical-Flow?label=AwesomeFlow&color=orange&style=flat" />
 </a>
@@ -40,12 +37,6 @@ Cooperation Projects:  <a href="https://github.com/megvii-research/CVPR2023-DMVF
 </a>
 <a href="https://github.com/megvii-research/CoNR">
 <img src="https://img.shields.io/github/stars/megvii-research/CoNR?label=CoNR2022&color=orange&style=flat" />
-</a>
-<a href="https://github.com/megvii-research/MM2022-ViCoPerceptualHeadGeneration">
-<img src="https://img.shields.io/github/stars/megvii-research/MM2022-ViCoPerceptualHeadGeneration?label=Head2022&color=yellow&style=flat" />
-</a>
-<a href="https://github.com/caozixuan/NeurIPS2021-ML4CO-KIDA">
-<img src="https://img.shields.io/github/stars/caozixuan/NeurIPS2021-ML4CO-KIDA?label=KIDA2021&color=yellow&style=flat" />
 </a>
 
 Service: CVPR22-24/ECCV22-24/ICCV23/AAAI23-24/NeurIPS23-24/ICLR24-25/ICML24/AISTATS25/WACV24-25/ACCV24/SIGGRAPH/TIP/TPAMI/TOMM
