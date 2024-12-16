@@ -39,7 +39,7 @@ Cooperation Projects:  <a href="https://github.com/megvii-research/CVPR2023-DMVF
 <img src="https://img.shields.io/github/stars/megvii-research/CoNR?label=CoNR2022&color=orange&style=flat" />
 </a>
 
-Service: CVPR22~24/ECCV22~24/ICCV23/AAAI23~24/NeurIPS23~24/ICLR24~25/ICML24~25/AISTATS25/WACV24~25/ACCV24/SIGGRAPH/TIP/TPAMI/TOMM
+Service: CVPR22-24/ECCV22-24/ICCV23/AAAI23-24/NeurIPS23-24/ICLR24-25/ICML24-25/AISTATS25/WACV24-25/ACCV24/SIGGRAPH/TIP/TPAMI/TOMM
 
 <img src="https://api.star-history.com/svg?repos=hzwer/ShareOI,hzwer/ICCV2019-LearningToPaint,hzwer/ECCV2022-RIFE,megvii-research/CoNR,hzwer/Practical-RIFE,hzwer/WritingAIPaper&type=Date" height="360" width="600" />
 
