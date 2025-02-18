@@ -38,6 +38,9 @@ Cooperation Projects:  <a href="https://github.com/megvii-research/CVPR2023-DMVF
 <a href="https://github.com/megvii-research/CoNR">
 <img src="https://img.shields.io/github/stars/megvii-research/CoNR?label=CoNR2022&color=orange&style=flat" />
 </a>
+<a href="https://github.com/stepfun-ai/Step-Audio">
+<img src="https://img.shields.io/github/stars/stepfun-ai/Step-Audio?label=StepAudio&color=orange&style=flat" />
+</a>
 
 Service: CVPR22-24/ECCV22-24/ICCV23/AAAI23-24/NeurIPS23-24/ICLR24-25/ICML24-25/AISTATS25/WACV24-25/ACCV24/SIGGRAPH/TIP/TPAMI/TOMM
 
