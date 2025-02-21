@@ -44,7 +44,7 @@ Cooperation Projects:  <a href="https://github.com/megvii-research/CVPR2023-DMVF
 
 Service: CVPR22-24/ECCV22-24/ICCV23/AAAI23-24/NeurIPS23-24/ICLR24-25/ICML24-25/AISTATS25/WACV24-25/ACCV24/SIGGRAPH/TIP/TPAMI/TOMM
 
-<img src="https://api.star-history.com/svg?repos=hzwer/ShareOI,hzwer/ICCV2019-LearningToPaint,hzwer/ECCV2022-RIFE,megvii-research/CoNR,hzwer/Practical-RIFE,hzwer/WritingAIPaper,hzwer/CVPR2023-DMVFN,stepfun-ai/Step-Video-T2V&type=Date" height="360" width="600" />
+<img src="https://api.star-history.com/svg?repos=hzwer/ShareOI,hzwer/ICCV2019-LearningToPaint,hzwer/ECCV2022-RIFE,megvii-research/CoNR,hzwer/Practical-RIFE,hzwer/WritingAIPaper,hzwer/CVPR2023-DMVFN,stepfun-ai/Step-Audio&type=Date" height="360" width="600" />
 
 
 <!--
