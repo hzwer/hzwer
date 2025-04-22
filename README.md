@@ -2,7 +2,7 @@
 
 - I used to be an algorithm contest player NOI🥈, ICPC-regional🏅️. 
 
-- I worked at MEGVII Research From 2017 to 2023~(interned for three years). Currently I work for [StepFun](https://www.stepfun.com). I received my B.S. degree from Peking Univerisity in 2020.
+- I worked at MEGVII Research From 2017 to 2023~(interned for three years). Currently I work for [StepFun](https://www.stepfun.com) Foundation Model. I received my B.S. degree from Peking Univerisity in 2020.
 
 [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en), [知乎](https://www.zhihu.com/people/hzwer), [算法博客](http://hzwer.com), [Email](mailto:hzwer@pku.edu.cn), [CV](https://drive.google.com/file/d/1P7m9k8YENP4Yi23Vp42bDPIHfWr0qjU-/view?usp=share_link)
 
@@ -42,7 +42,7 @@ Cooperation Projects:  <a href="https://github.com/megvii-research/CVPR2023-DMVF
 <img src="https://img.shields.io/github/stars/stepfun-ai/Step-Audio?label=StepAudio&color=orange&style=flat" />
 </a>
 
-Service: CVPR22-24/ECCV22-24/ICCV23/AAAI23-24/NeurIPS23-24/ICLR24-25/ICML24-25/AISTATS25/WACV24-25/ACCV24/SIGGRAPH/TIP/TPAMI/TOMM
+Service: CVPR22-24/ECCV22-24/ICCV23-25/AAAI23-24/NeurIPS23-24/ICLR24-25/ICML24-25/AISTATS25/WACV24-25/ACCV24/SIGGRAPH/TIP/TPAMI/TOMM
 
 <img src="https://api.star-history.com/svg?repos=hzwer/ShareOI,hzwer/ICCV2019-LearningToPaint,hzwer/ECCV2022-RIFE,megvii-research/CoNR,hzwer/Practical-RIFE,hzwer/WritingAIPaper,hzwer/CVPR2023-DMVFN,stepfun-ai/Step-Audio&type=Date" height="360" width="600" />
 
