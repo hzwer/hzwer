@@ -2,7 +2,7 @@
 
 - I used to be an algorithm contest player NOI🥈, ICPC-regional🏅️. 
 
-- I worked at MEGVII Research From 2017 to 2023~(interned for three years). Currently I work for [StepFun](https://www.stepfun.com) Foundation Model. I received my B.S. degree from Peking Univerisity in 2020.
+-  I received my B.S. degree from Peking Univerisity in 2020. I worked at MEGVII Research from 2017 to 2023 (interned for three years). Since 2023, I have been working for [StepFun](https://www.stepfun.com) Foundation Model.
 
 [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en), [知乎](https://www.zhihu.com/people/hzwer), [算法博客](http://hzwer.com), [Email](mailto:hzwer@pku.edu.cn), [CV](https://drive.google.com/file/d/1P7m9k8YENP4Yi23Vp42bDPIHfWr0qjU-/view?usp=share_link)
 
