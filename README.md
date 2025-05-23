@@ -6,7 +6,16 @@
 
 [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en), [知乎](https://www.zhihu.com/people/hzwer), [算法博客](http://hzwer.com), [Email](mailto:hzwer@pku.edu.cn), [CV](https://drive.google.com/file/d/1P7m9k8YENP4Yi23Vp42bDPIHfWr0qjU-/view?usp=share_link)
 
-Main Projects: 
+Service: CVPR22-24/ECCV22-24/ICCV23-25/AAAI23-24/NeurIPS23-24/ICLR24-25/ICML24-25/AISTATS25/WACV24-25/ACCV24/SIGGRAPH/TIP/TPAMI/TOMM
+
+### Recent News:
+2025.05 - I have received 1k [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en) citations.
+
+2025.02 - The project I participated in, [Step-Audio](https://github.com/stepfun-ai/Step-Audio), has been released.
+
+2024.09 - I carefully crafted a tutorial on writing academic papers [WritingAIPaper](https://github.com/hzwer/WritingAIPaper).
+
+### Main Projects: 
 
 <a href="https://github.com/megvii-research/WACV2024-SAFA">
 <img src="https://img.shields.io/github/stars/megvii-research/WACV2024-SAFA?label=SAFA2023&color=yellow&style=flat" />
@@ -41,8 +50,6 @@ Cooperation Projects:  <a href="https://github.com/megvii-research/CVPR2023-DMVF
 <a href="https://github.com/stepfun-ai/Step-Audio">
 <img src="https://img.shields.io/github/stars/stepfun-ai/Step-Audio?label=StepAudio&color=orange&style=flat" />
 </a>
-
-Service: CVPR22-24/ECCV22-24/ICCV23-25/AAAI23-24/NeurIPS23-24/ICLR24-25/ICML24-25/AISTATS25/WACV24-25/ACCV24/SIGGRAPH/TIP/TPAMI/TOMM
 
 <img src="https://api.star-history.com/svg?repos=hzwer/ShareOI,hzwer/ICCV2019-LearningToPaint,hzwer/ECCV2022-RIFE,megvii-research/CoNR,hzwer/Practical-RIFE,hzwer/WritingAIPaper,hzwer/CVPR2023-DMVFN,stepfun-ai/Step-Audio&type=Date" height="360" width="600" />
 
