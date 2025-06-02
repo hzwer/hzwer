@@ -9,11 +9,13 @@
 Service: CVPR22-24/ECCV22-24/ICCV23-25/AAAI23-24/NeurIPS23-24/ICLR24-25/ICML24-25/AISTATS25/WACV24-25/ACCV24/SIGGRAPH/TIP/TPAMI/TOMM
 
 ### Recent News:
+2025.06 - We released a benchmark for Story Visulization -> [ViStoryBench](https://github.com/vistorybench/vistorybench).
+
 2025.05 - I have received 1k [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en) citations.
 
 2025.02 - The project I participated in, [Step-Audio](https://github.com/stepfun-ai/Step-Audio), has been released.
 
-2024.09 - I carefully crafted a tutorial on writing academic papers [WritingAIPaper](https://github.com/hzwer/WritingAIPaper).
+2024.09 - We carefully crafted a tutorial on writing academic papers [WritingAIPaper](https://github.com/hzwer/WritingAIPaper).
 
 ### Main Projects: 
 
