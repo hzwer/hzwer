@@ -6,10 +6,10 @@
 
 [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en), [知乎](https://www.zhihu.com/people/hzwer), [算法博客](http://hzwer.com), [Email](mailto:hzwer@pku.edu.cn), [CV](https://drive.google.com/file/d/1P7m9k8YENP4Yi23Vp42bDPIHfWr0qjU-/view?usp=share_link)
 
-Service: CVPR22-24/ECCV22-24/ICCV23-25/AAAI23-24/NeurIPS23-24/ICLR24-25/ICML24-25/AISTATS25/WACV24-25/ACCV24/SIGGRAPH/TIP/TPAMI/TOMM
+Service: CVPR22-24/ECCV22-24/ICCV23-25/AAAI23-24/NeurIPS23-25/ICLR24-25/ICML24-25/AISTATS25/WACV24-25/ACCV24/SIGGRAPH/TIP/TPAMI/TOMM
 
 ### Recent News:
-2025.06 - We released a benchmark for Story Visulization [ViStoryBench](https://github.com/vistorybench/vistorybench) and a new LALM [Step-Audio-AQAA](https://arxiv.org/abs/2506.08967).
+2025.06 - We released a benchmark for Story Visulization [ViStoryBench](https://github.com/vistorybench/vistorybench), a new LALM [Step-Audio-AQAA](https://arxiv.org/abs/2506.08967) and [a survey for Future Frame Synthesis](https://arxiv.org/abs/2401.14718).
 
 2025.05 - I have received 1k [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en) citations.
 
