@@ -9,6 +9,8 @@
 Service: CVPR22-24/ECCV22-24/ICCV23-25/AAAI23-24/NeurIPS23-25/ICLR24-25/ICML24-25/AISTATS25/WACV24-26/ACCV24/SIGGRAPH/TIP/TPAMI/TOMM
 
 ### Recent News:
+2025.08 - [Step3](https://github.com/stepfun-ai/Step3) !
+
 2025.07 - Our survey, [A Survey on Future Frame Synthesis: Bridging Deterministic and Generative Approaches](https://openreview.net/forum?id=ZN4rzrHlNz), is accepted to TMLR.
 
 2025.06 - We released a benchmark for Story Visulization [ViStoryBench](https://github.com/vistorybench/vistorybench), a new LALM [Step-Audio-AQAA](https://arxiv.org/abs/2506.08967).
