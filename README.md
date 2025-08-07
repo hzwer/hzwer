@@ -6,7 +6,7 @@
 
 [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en), [知乎](https://www.zhihu.com/people/hzwer), [算法博客](http://hzwer.com), [Email](mailto:hzwer@pku.edu.cn), [CV](https://drive.google.com/file/d/1P7m9k8YENP4Yi23Vp42bDPIHfWr0qjU-/view?usp=share_link)
 
-Service: CVPR22-24/ECCV22-24/ICCV23-25/AAAI23-24/NeurIPS23-25/ICLR24-25/ICML24-25/AISTATS25/WACV24-26/ACCV24/SIGGRAPH/TIP/TPAMI/TOMM
+Service: CVPR22-24/ECCV22-24/ICCV23-25/AAAI23-26/NeurIPS23-25/ICLR24-25/ICML24-25/AISTATS25/WACV24-26/ACCV24/SIGGRAPH/TIP/TPAMI/TOMM
 
 [P2Oileen](https://github.com/p2oileen) is my wife, she is also my academic partner.
 
