@@ -11,6 +11,8 @@ Service: CVPR22-24/ECCV22-24/ICCV23-25/AAAI23-26/NeurIPS23-25/ICLR24-26/ICML24-2
 [P2Oileen](https://github.com/p2oileen) is my wife, she is also my academic partner.
 
 ### Recent News:
+2025.11 - Our survey, [Recent Advances in Attack and Defense Approaches of Large Language Models](https://arxiv.org/abs/2409.03274), is accepted to FCS.
+
 2025.08 - [Step3](https://github.com/stepfun-ai/Step3)! [RIFE](https://github.com/megvii-research/ECCV2022-RIFE) received over 5k stars! 
 
 2025.07 - Our survey, [A Survey on Future Frame Synthesis: Bridging Deterministic and Generative Approaches](https://openreview.net/forum?id=ZN4rzrHlNz), is accepted to TMLR.
