@@ -11,6 +11,8 @@ Service: CVPR22-24/ECCV22-24/ICCV23-25/AAAI23-26/NeurIPS23-25/ICLR24-26/ICML24-2
 [P2Oileen](https://github.com/p2oileen) is my wife, she is also my academic partner.
 
 ### Recent News:
+2025.12 - We release [PaCoRe](https://github.com/stepfun-ai/pacore), a framework that shifts the driver of inference from sequential depth to coordinated parallel breadth, breaking the model context limitation and massively scaling test time compute.
+
 2025.11 - Our survey, [Recent Advances in Attack and Defense Approaches of Large Language Models](https://arxiv.org/abs/2409.03274), is accepted to FCS.
 
 2025.08 - [Step3](https://github.com/stepfun-ai/Step3)! [RIFE](https://github.com/megvii-research/ECCV2022-RIFE) received over 5k stars! 
@@ -28,7 +30,7 @@ Service: CVPR22-24/ECCV22-24/ICCV23-25/AAAI23-26/NeurIPS23-25/ICLR24-26/ICML24-2
 ### Main Projects: 
 
 <a href="https://github.com/megvii-research/WACV2024-SAFA">
-<img src="https://img.shields.io/github/stars/megvii-research/WACV2024-SAFA?label=SAFA2023&color=yellow&style=flat" />
+<img src="https://img.shields.io/github/stars/megvii-research/WACV2024-SAFA?label=SAFA2023&color=orange&style=flat" />
 </a>
 <a href="https://github.com/megvii-research/ECCV2022-RIFE">
 <img src="https://img.shields.io/github/stars/megvii-research/ECCV2022-RIFE?label=RIFE2021&color=red&style=flat" />
@@ -48,7 +50,7 @@ Service: CVPR22-24/ECCV22-24/ICCV23-25/AAAI23-26/NeurIPS23-25/ICLR24-26/ICML24-2
 <img src="https://img.shields.io/github/stars/hzwer/Awesome-Optical-Flow?label=AwesomeFlow&color=orange&style=flat" />
 </a>
 <a href="https://github.com/hzwer/WritingAIPaper">
-<img src="https://img.shields.io/github/stars/hzwer/WritingAIPaper?label=WritingAIPaper&color=orange&style=flat" />
+<img src="https://img.shields.io/github/stars/hzwer/WritingAIPaper?label=WritingAIPaper&color=red&style=flat" />
 </a>
 
 Cooperation Projects:  <a href="https://github.com/megvii-research/CVPR2023-DMVFN">
@@ -65,6 +67,8 @@ Cooperation Projects:  <a href="https://github.com/megvii-research/CVPR2023-DMVF
 </a>
 <a href="https://github.com/stepfun-ai/Step3">
 <img src="https://img.shields.io/github/stars/stepfun-ai/Step3?label=Step3&color=orange&style=flat" />
+</a><a href="https://github.com/stepfun-ai/pacore">
+<img src="https://img.shields.io/github/stars/stepfun-ai/pacore?label=pacore&color=orange&style=flat" />
 </a>
 
 <img src="https://api.star-history.com/svg?repos=hzwer/ShareOI,hzwer/ICCV2019-LearningToPaint,hzwer/ECCV2022-RIFE,megvii-research/CoNR,hzwer/Practical-RIFE,hzwer/WritingAIPaper,hzwer/CVPR2023-DMVFN,stepfun-ai/Step-Audio,stepfun-ai/Step3&type=Date" height="360" width="600" />
