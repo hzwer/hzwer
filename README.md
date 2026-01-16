@@ -11,6 +11,8 @@ Service: CVPR22-24,26/ECCV22-24/ICCV23-25/AAAI23-26/NeurIPS23-25/ICLR24-26/ICML2
 [P2Oileen](https://github.com/p2oileen) is my wife, she is also my academic partner.
 
 ### Recent News:
+2026.01 - [STEP3-VL-10B](https://github.com/stepfun-ai/Step3-VL-10B) is a lightweight open-source foundation model designed to redefine the trade-off between compact efficiency and frontier-level multimodal intelligence.
+
 2025.12 - We release [PaCoRe](https://github.com/stepfun-ai/pacore), a framework that shifts the driver of inference from sequential depth to coordinated parallel breadth, breaking the model context limitation and massively scaling test time compute.
 
 2025.11 - Our survey, [Recent Advances in Attack and Defense Approaches of Large Language Models](https://arxiv.org/abs/2409.03274), is accepted to FCS.
@@ -70,6 +72,10 @@ Cooperation Projects:  <a href="https://github.com/megvii-research/CVPR2023-DMVF
 </a><a href="https://github.com/stepfun-ai/pacore">
 <img src="https://img.shields.io/github/stars/stepfun-ai/pacore?label=pacore&color=orange&style=flat" />
 </a>
+<img src="https://img.shields.io/github/stars/stepfun-ai/Step3?label=Step3&color=orange&style=flat" />
+</a><a href="https://github.com/stepfun-ai/Step3-VL-10B">
+<img src="https://img.shields.io/github/stars/stepfun-ai/Step3-VL-10B?label=Step3-VL&color=orange&style=flat" />
+</a> 
 
 <img src="https://api.star-history.com/svg?repos=hzwer/ShareOI,hzwer/ICCV2019-LearningToPaint,hzwer/ECCV2022-RIFE,megvii-research/CoNR,hzwer/Practical-RIFE,hzwer/WritingAIPaper,hzwer/CVPR2023-DMVFN,stepfun-ai/Step-Audio,stepfun-ai/Step3&type=Date" height="360" width="600" />
 
