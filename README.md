@@ -25,10 +25,6 @@ Service: CVPR22-24,26/ECCV22-24/ICCV23-25/AAAI23-26/NeurIPS23-25/ICLR24-26/ICML2
 
 2025.05 - I have received 1k [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en) citations.
 
-2025.02 - The project I participated in, [Step-Audio](https://github.com/stepfun-ai/Step-Audio), has been released.
-
-2024.09 - We carefully crafted a tutorial on writing academic papers [WritingAIPaper](https://github.com/hzwer/WritingAIPaper).
-
 ### Main Projects: 
 
 <a href="https://github.com/megvii-research/WACV2024-SAFA">
