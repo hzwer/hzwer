@@ -74,8 +74,11 @@ Cooperation Projects:  <a href="https://github.com/megvii-research/CVPR2023-DMVF
 </a><a href="https://github.com/stepfun-ai/Step3-VL-10B">
 <img src="https://img.shields.io/github/stars/stepfun-ai/Step3-VL-10B?label=Step3-VL&color=orange&style=flat" />
 </a> 
+<a href="https://github.com/stepfun-ai/Step-3.5-Flash">
+<img src="https://img.shields.io/github/stars/stepfun-ai/Step-3.5-Flash?label=Step3.5-Flash&color=orange&style=flat" />
+</a>
 
-<img src="https://api.star-history.com/svg?repos=hzwer/ShareOI,hzwer/ICCV2019-LearningToPaint,hzwer/ECCV2022-RIFE,megvii-research/CoNR,hzwer/Practical-RIFE,hzwer/WritingAIPaper,hzwer/CVPR2023-DMVFN,stepfun-ai/Step-Audio,stepfun-ai/Step3&type=Date" height="360" width="600" />
+<img src="https://api.star-history.com/svg?repos=hzwer/ShareOI,hzwer/ICCV2019-LearningToPaint,hzwer/ECCV2022-RIFE,megvii-research/CoNR,hzwer/Practical-RIFE,hzwer/WritingAIPaper,hzwer/CVPR2023-DMVFN,stepfun-ai/Step-Audio&type=Date" height="360" width="600" />
 
 <!--
 **hzwer/hzwer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
