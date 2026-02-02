@@ -11,7 +11,7 @@ Service: CVPR22-24,26/ECCV22-24/ICCV23-25/AAAI23-26/NeurIPS23-25/ICLR24-26/ICML2
 [P2Oileen](https://github.com/p2oileen) is my wife, she is also my academic partner.
 
 ### Recent News:
-2026.02 - [Step 3.5 Flash!!!](https://github.com/stepfun-ai/Step-3.5-Flash)
+2026.02 - [Step 3.5 Flash](https://github.com/stepfun-ai/Step-3.5-Flash)!!!
 
 2026.01 - [STEP3-VL-10B](https://github.com/stepfun-ai/Step3-VL-10B) is a lightweight open-source foundation model designed to redefine the trade-off between compact efficiency and frontier-level multimodal intelligence.
 
