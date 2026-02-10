@@ -70,7 +70,6 @@ Cooperation Projects:  <a href="https://github.com/megvii-research/CVPR2023-DMVF
 </a><a href="https://github.com/stepfun-ai/pacore">
 <img src="https://img.shields.io/github/stars/stepfun-ai/pacore?label=pacore&color=orange&style=flat" />
 </a>
-<img src="https://img.shields.io/github/stars/stepfun-ai/Step3?label=Step3&color=orange&style=flat" />
 </a><a href="https://github.com/stepfun-ai/Step3-VL-10B">
 <img src="https://img.shields.io/github/stars/stepfun-ai/Step3-VL-10B?label=Step3-VL&color=orange&style=flat" />
 </a> 
