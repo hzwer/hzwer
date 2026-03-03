@@ -11,7 +11,7 @@ Service: CVPR22-24,26/ECCV22-24/ICCV23-25/AAAI23-26/NeurIPS23-25/ICLR24-26/ICML2
 [P2Oileen](https://github.com/p2oileen) is my wife, she is also my academic partner.
 
 ### Recent News:
-2026.02 - [Step 3.5 Flash](https://github.com/stepfun-ai/Step-3.5-Flash)!!!
+2026.02 - [Step 3.5 Flash](https://github.com/stepfun-ai/Step-3.5-Flash) ?! [ViStoryBench](https://github.com/vistorybench/vistorybench) is accepted by CVPR26!
 
 2026.01 - [STEP3-VL-10B](https://github.com/stepfun-ai/Step3-VL-10B) is a lightweight open-source foundation model designed to redefine the trade-off between compact efficiency and frontier-level multimodal intelligence.
 
@@ -22,8 +22,6 @@ Service: CVPR22-24,26/ECCV22-24/ICCV23-25/AAAI23-26/NeurIPS23-25/ICLR24-26/ICML2
 2025.08 - [Step3](https://github.com/stepfun-ai/Step3)! [RIFE](https://github.com/megvii-research/ECCV2022-RIFE) received over 5k stars! 
 
 2025.07 - Our survey, [A Survey on Future Frame Synthesis: Bridging Deterministic and Generative Approaches](https://openreview.net/forum?id=ZN4rzrHlNz), is accepted to TMLR.
-
-2025.06 - We released a benchmark for Story Visulization [ViStoryBench](https://github.com/vistorybench/vistorybench), a new LALM [Step-Audio-AQAA](https://arxiv.org/abs/2506.08967).
 
 2025.05 - I have received 1k [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en) citations.
 
