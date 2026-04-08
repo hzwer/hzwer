@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I used to be an algorithm contest player NOI🥈, ICPC-regional🏅️. 
+- I used to be an algorithm contest player with NOI🥈, CTSC🏅️ and ICPC-regional🏅️. 
 
 -  I received my B.S. degree from Peking Univerisity in 2020. I worked at MEGVII Research from 2017 to 2023 (interned for three years). Since 2023, I have been working for [StepFun](https://www.stepfun.com) Foundation Model.
 
