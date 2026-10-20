@@ -10,11 +10,13 @@
 [P2Oileen](https://github.com/p2oileen) is my wife, as well as my academic partner.
 
 ### Recent News:
-2026.09 - [Step 5 preview](https://www.stepfun.com/step-5-preview). Working toward next release.
+2026.09 - [Step 5 preview](https://github.com/stepfun-ai/Step-5-Preview). Working toward next release.
+
+2026.09 - My publications have received 1,800 citations on [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en).
 
 2026.06 - [Step 3.7 Flash](https://github.com/stepfun-ai/Step-3.7-Flash) is released. 
 
-2026.04 - My publications have received 1,800 citations on [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en). [DOCKSMITH](https://arxiv.org/html/2602.00592v2) is accepted by ICML26. 
+2026.04 - [DOCKSMITH](https://arxiv.org/html/2602.00592v2) is accepted by ICML26. 
 
 2026.04 - [PaCoRe](https://github.com/stepfun-ai/pacore) is accepted by ACL2026. PaCoRe is a framework that shifts the driver of inference from sequential depth to coordinated parallel breadth, breaking the model context limitation and massively scaling test time compute.
 
