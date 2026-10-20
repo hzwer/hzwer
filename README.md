@@ -10,11 +10,7 @@
 [P2Oileen](https://github.com/p2oileen) is my wife, as well as my academic partner.
 
 ### Recent News:
-2026.09 - [Step 5 preview](https://github.com/stepfun-ai/Step-5-Preview). Working toward next release.
-
-2026.09 - My publications have received 1,800 citations on [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en).
-
-2026.06 - [Step 3.7 Flash](https://github.com/stepfun-ai/Step-3.7-Flash) is released. 
+2026.09 - [Step 5 preview](https://github.com/stepfun-ai/Step-5-Preview). Working toward next release. My publications have received 1,800 citations on [Google Scholar](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en).
 
 2026.04 - [DOCKSMITH](https://arxiv.org/html/2602.00592v2) is accepted by ICML26. 
 
